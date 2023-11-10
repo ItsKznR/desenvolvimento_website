@@ -1,0 +1,25 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js localhost 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsKznR/desenvolvimento_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsKznR/desenvolvimento_website/issues"
+  },
+  "homepage": "https://github.com/ItsKznR/desenvolvimento_website#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
